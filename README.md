@@ -1,0 +1,76 @@
+# README
+
+# ROBOCON2025\-3508DOG
+
+> 苏州工学院 2025赛季足式机器人（一队）项目开源整理
+> 
+> 
+
+## 简介
+
+本仓库是**苏州工学院 ROBOCON 2025 足式机器人一队**的软件、控制方案与配套资料归档整理。 2025赛季是我校首次登上 ROBOCON 赛场，具备重要纪念意义。
+
+> 说明：我本人为**2026赛季电控组成员**，并未参与2025赛季的开发工作，仓库内原有代码未做功能修改，仅做归档、梳理、整理，目的是给其他参赛队伍提供思路参考。
+> 
+> 
+
+2025赛季成绩：**三项项目均获得全国三等奖（国三）**
+
+核心技术方向：
+
+- 足式机器人运动控制
+
+- 机身位置控制
+
+## 演示
+
+![Image](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGE4N2QxOTk2NzMyNzdkMjgzZTdhMzJiYmNiY2EwNGFfZjMzOGU5Y2Q2MzMxNGZjNzViZDBiODQyOGE0ZTcwYWNfSUQ6NzcxMDQ5NTc4NjU3MTc0NjU2N18xNzk1MjQwMDg4OjE3OTUzMjY0ODhfVjM)
+
+b站：
+
+- [四足小狗看起来好像没睡醒](https://www.bilibili.com/video/BV1wudWYnEti/?spm_id_from=333.1387.upload.video_card.click&vd_source=4f07d0682bac8028161eae946482de58)
+
+- [R\&A战队勇闯Robocon喜获国二](https://www.bilibili.com/video/BV1jAtZzyECV/?spm_id_from=333.1387.upload.video_card.click&vd_source=4f07d0682bac8028161eae946482de58)
+
+- [R\&A战队勇闯Robocon喜获国二](https://www.bilibili.com/video/BV1c9tozDEPm/?spm_id_from=333.1387.upload.video_card.click)
+
+## 仓库目录结构
+
+## 项目时间线
+
+## 快速开始
+
+### 下位机 Keil 工程
+
+打开 [`1.Software/DJI3508DOG/project_3508/robohorse2022/MDK-ARM/robohorse2022.uvprojx`](https://github.com/Childhood-zml/ROBOCON2025-3508DOG/blob/main/1.Software/DJI3508DOG/project_3508/robohorse2022/MDK-ARM/robohorse2022.uvprojx)
+
+> 环境建议：Keil uVision5，适配 STM32F427 芯片，配套 DJI 3508 电机驱动
+> 
+> 
+
+## 重要声明
+
+由于整理者并非2025赛季原开发队员，部分原始设计文档、调试日志、内部说明存在缺失，资料排布也可能不够规整，敬请谅解。 如果有疑问，欢迎在 Issue 中交流讨论。
+
+## 致谢 \& 参考开源
+
+项目方案参考（在此特别感谢宁波工程学院的开源）：
+
+- [https://gitee\.com/Ha\-WthorN/robocon\-nbut](https://gitee.com/Ha-WthorN/robocon-nbut)
+
+- [https://gitlab\.com/nbutroboticslab/Competition\_Projects/robocon/robocon2022](https://gitlab.com/nbutroboticslab/Competition_Projects/robocon/robocon2022)
+
+仓库文档框架参考：
+
+- [https://blog\.csdn\.net/weixin\_52612260/article/details/134124028](https://blog.csdn.net/weixin_52612260/article/details/134124028)
+
+- [https://blog\.csdn\.net/Hbutneymar/article/details/147161479](https://blog.csdn.net/Hbutneymar/article/details/147161479)
+
+资料参考：
+
+- [【必读】LocoWiki介绍](https://lain-database.feishu.cn/wiki/HwyJwB70niKbW7khmwlcbCH2nXb)
+
+## 许可声明
+
+本仓库当前未附带 `LICENSE` 文件；如需在论文/商业项目中使用，请先联系作者确认授权范围。
+
