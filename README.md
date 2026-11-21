@@ -40,8 +40,12 @@ b站：
 - https://m\.alltuu\.com/album/2123300604/?from=qrCode\&menu=live
 
 ## 仓库目录结构
-
-## 项目时间线
+| 目录 | 说明 |
+| --- | --- |
+| `1.Software/` | 完全下位机（STM32F427，Keil uVision 工程：[`robohorse2022.uvprojx`](<./1.Software/DJI3508DOG/project_3508/robohorse2022/MDK-ARM/robohorse2022.uvprojx>)|
+| `2.Document/` | 资料与手册（PDF） |
+| `3.Picture/` | 比赛图片 |
+| `assets/` | README 图片素材 |
 
 ## 快速开始
 
