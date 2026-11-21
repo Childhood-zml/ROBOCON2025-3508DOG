@@ -1,5 +1,3 @@
-# README
-
 # ROBOCON2025\-3508DOG
 
 > 苏州工学院 2025赛季足式机器人（一队）项目开源整理
@@ -24,7 +22,7 @@
 
 ## 演示
 
-![Image](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=ZGE4N2QxOTk2NzMyNzdkMjgzZTdhMzJiYmNiY2EwNGFfZjMzOGU5Y2Q2MzMxNGZjNzViZDBiODQyOGE0ZTcwYWNfSUQ6NzcxMDQ5NTc4NjU3MTc0NjU2N18xNzk1MjQwMDg4OjE3OTUzMjY0ODhfVjM)
+![Image](https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/authcode/?code=OTU5MTk5MDFiNzgxYzlmMmI5ODYzOWE5YmZhMmUxNjFfYWNmNDRhM2MwNzIzMzhhZmE4OWUwY2Q4OTAzYWM5MjlfSUQ6NzcxMDQ5NTc4NjU3MTc0NjU2N18xNzk1MjQwOTgzOjE3OTUzMjczODNfVjM)
 
 b站：
 
@@ -33,6 +31,10 @@ b站：
 - [R\&A战队勇闯Robocon喜获国二](https://www.bilibili.com/video/BV1jAtZzyECV/?spm_id_from=333.1387.upload.video_card.click&vd_source=4f07d0682bac8028161eae946482de58)
 
 - [R\&A战队勇闯Robocon喜获国二](https://www.bilibili.com/video/BV1c9tozDEPm/?spm_id_from=333.1387.upload.video_card.click)
+
+图片直播：
+
+- https://m\.alltuu\.com/album/2123300604/?from=qrCode\&menu=live
 
 ## 仓库目录结构
 
