@@ -1,5 +1,3 @@
-# README\_EN
-
 # ROBOCON2025‑3508DOG
 
 > ROBOCON 2025 Legged Robot \(Team 1\) Project Open‑source Repository, Suzhou University of Technology
