@@ -44,7 +44,7 @@ b站：
 | --- | --- |
 | `1.Software/` | 完全下位机（STM32F427，Keil uVision 工程：[`robohorse2022.uvprojx`](<./1.Software/DJI3508DOG/project_3508/robohorse2022/MDK-ARM/robohorse2022.uvprojx>)|
 | `2.Document/` | 资料与手册（PDF） |
-| `3.Picture/` | 比赛图片 |
+| `3.Images/` | 比赛图片 |
 | `assets/` | README 图片素材 |
 
 ## 快速开始

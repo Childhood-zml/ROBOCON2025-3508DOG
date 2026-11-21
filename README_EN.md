@@ -42,8 +42,8 @@ Photo live‑stream album:
 | Path | Description |
 | --- | --- |
 | `1.Software/Slave/` | STM32F427 slave firmware (Keil uVision project: [`robohorse2022.uvprojx`](<./1.Software/DJI3508DOG/project_3508/robohorse2022/MDK-ARM/robohorse2022.uvprojx>)) |
-| `3.Document/` | Manuals and module datasheets (PDF) |
-| `4.Picture/` | Competition pictures |
+| `2.Document/` | Manuals and module datasheets (PDF) |
+| `3.Images/` | Competition pictures |
 | `assets/` | Images used by READMEs |
 
 ## Quick Start
